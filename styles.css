@@ -1,0 +1,24 @@
+h1
+{
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body
+{
+    background-color: aquamarine;
+}
+p.c
+{
+    text-align: center;
+}
+h2
+{
+    color: blueviolet;
+}
+h3
+{
+    color: rgb(203, 23, 44);
+}
